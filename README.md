@@ -1,2 +1,2 @@
-# ML-tecnolog-as
+# ML-tecnologias
 Material de clase ML
